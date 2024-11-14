@@ -7,7 +7,7 @@ This project is a feature selection using Genetic Algorithm to select the best f
 ## How to run the code
 1. Clone the repository
 ```bash
-git clone 
+git clone https://github.com/KrisnaSantosa15/feature-selection-genetic-algorithm.git
 ```
 
 2. Install the required libraries
